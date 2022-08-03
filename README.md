@@ -9,7 +9,7 @@ In this tutorial we are going to see how to post data to the AWS, in this task w
 - [ESP8266 ESP-01 Breadboard Adapter](https://amzn.to/3kSFVcP)
 - [DHT11 Temp & Humidity Sensor](https://amzn.to/2Qs9fcV)
 - [Hardware / Storage Cabinet Drawer](https://amzn.to/36ehDpB)
-- 
+
 # Software Used :
 - Arduino IDE
 - AWS
