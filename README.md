@@ -45,4 +45,9 @@ To the right, is a [DHT11](https://amzn.to/2Qs9fcV) sensor, it is a temperature 
 # Video Tutorial: Connecting NodeMCU with AWS IoT Core using Arduino IDE.
 You can watch the following video to knew how you can do Temperature&Humidity Data record on AWS IoT Core with NodeMCU-ESP8266 using Arduino IDE and MQTT Protocol.
 It will be a little bit difficult for me to explain everything here. I suggest you follow the video. I will provide the rest of the necessary information like source code and circuit diagram below the video.
-https://www.youtube.com/watch?v=28FS2qix2u4&t=6s
+
+[![ ALT TEXT](https://user-images.githubusercontent.com/100269450/182693420-650104fe-cbc8-4a99-bcf4-bc1c1f12d937.jpg)](https://www.youtube.com/watch?v=28FS2qix2u4&t=6s)
+
+# OUTPUT
+![alt tag](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/AWS_Output.JPG)
+
