@@ -1,7 +1,7 @@
 # Temperature-Humidity-ESP8266-AWS
 ![Untitled2](https://user-images.githubusercontent.com/100269450/182680637-3ee3af53-63e8-4430-bc93-e99a1e11f373.png)
 
-In this tutorial we are going to see how to post data to the AWS, in this task we will interface DHT11 with ESP32 and post the Temperature and Humidity data to the AWS Using Arduino IDE over MQTT Protocol.
+In this tutorial we are going to see how to post data to the AWS, in this task we will interface DHT11 with ESP8266 and post the Temperature and Humidity data to the AWS Using Arduino IDE over MQTT Protocol.
 
 # Hardware :
 - [ESP8266 ESP-01 WiFi Module](https://amzn.to/30fUWNS)
